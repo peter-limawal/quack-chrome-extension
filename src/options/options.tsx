@@ -5,7 +5,7 @@ import './options.css'
 const App: React.FC<{}> = () => {
   return (
     <div>
-      <img src="icon.png" />
+      <img src="images/goose1.png" />
     </div>
   )
 }

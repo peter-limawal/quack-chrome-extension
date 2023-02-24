@@ -1,3 +1,16 @@
 body {
-  background-color: #1c1c1c;
+  background-color: #faf9f6;
+  color: #28282b;
+  width: 350px;
+  height: 500px;
+}
+
+main {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.popup-clock {
+  margin: auto;
+  width: 80%;
 }
